@@ -1,0 +1,154 @@
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - text: 
+    - link " Logo" [ref=e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e6]: 
+      - text: Logo
+    - link "" [ref=e7] [cursor=pointer]:
+      - /url: "#"
+    - link "" [ref=e9] [cursor=pointer]:
+      - /url: "#"
+    - link "" [ref=e11] [cursor=pointer]:
+      - /url: "#"
+    - button " 3" [ref=e14] [cursor=pointer]:
+      - generic [ref=e15]: 
+      - generic [ref=e16]: "3"
+    - link [ref=e17] [cursor=pointer]:
+      - /url: "#"
+      - img "Avatar" [ref=e18]
+  - generic [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e23]:
+        - heading "My Profile" [level=4] [ref=e24]
+        - paragraph [ref=e25]:
+          - img "Avatar" [ref=e26]
+        - separator [ref=e27]
+        - paragraph [ref=e28]:
+          - generic [ref=e29]: 
+          - text: Designer, UI
+        - paragraph [ref=e30]:
+          - generic [ref=e31]: 
+          - text: London, UK
+        - paragraph [ref=e32]:
+          - generic [ref=e33]: 
+          - text: April 1, 1988
+      - generic [ref=e35]:
+        - button " My Groups" [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: 
+          - text: My Groups
+        - button " My Events" [ref=e38] [cursor=pointer]:
+          - generic [ref=e39]: 
+          - text: My Events
+        - button " My Photos" [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]: 
+          - text: My Photos
+      - generic [ref=e43]:
+        - paragraph [ref=e44]: Interests
+        - paragraph [ref=e45]:
+          - generic [ref=e46]: News
+          - generic [ref=e47]: W3Schools
+          - generic [ref=e48]: Labels
+          - generic [ref=e49]: Games
+          - generic [ref=e50]: Friends
+          - generic [ref=e51]: Games
+          - generic [ref=e52]: Friends
+          - generic [ref=e53]: Food
+          - generic [ref=e54]: Design
+          - generic [ref=e55]: Art
+          - generic [ref=e56]: Photos
+      - generic [ref=e57]:
+        - generic [ref=e58] [cursor=pointer]: 
+        - paragraph [ref=e60]:
+          - strong [ref=e61]: Hey!
+        - paragraph [ref=e62]: People are looking at your profile. Find out who.
+    - generic [ref=e63]:
+      - generic [ref=e67]:
+        - heading "Social Media template by w3.css" [level=6] [ref=e68]
+        - 'textbox "Status: Feeling Blue" [ref=e69]'
+        - button " Post" [ref=e70] [cursor=pointer]:
+          - generic [ref=e71]: 
+          - text: Post
+      - generic [ref=e139]:
+        - img "Avatar" [ref=e140]
+        - generic [ref=e141]: now
+        - heading "My Profile" [level=4] [ref=e142]
+        - separator [ref=e143]
+        - paragraph [ref=e144]: Mi primer post funcional!
+        - button " Liked (1)" [ref=e149] [cursor=pointer]:
+          - generic [ref=e146]: 
+          - text: Liked (1)
+        - button " Comment" [active] [ref=e147] [cursor=pointer]:
+          - generic [ref=e148]: 
+          - text: Comment
+        - generic [ref=e151]:
+          - textbox "Write a comment..." [ref=e152]
+          - button " Comment" [ref=e153] [cursor=pointer]:
+            - generic [ref=e154]: 
+            - text: Comment
+      - generic [ref=e72]:
+        - img "Avatar" [ref=e73]
+        - generic [ref=e74]: 1 min
+        - heading "John Doe" [level=4] [ref=e75]
+        - separator [ref=e76]
+        - paragraph [ref=e77]: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        - generic [ref=e78]:
+          - img "Post photo" [ref=e80]
+          - img "Post photo" [ref=e82]
+        - button " Like" [ref=e83] [cursor=pointer]:
+          - generic [ref=e84]: 
+          - text: Like
+        - button " Comment" [ref=e85] [cursor=pointer]:
+          - generic [ref=e86]: 
+          - text: Comment
+      - generic [ref=e87]:
+        - img "Avatar" [ref=e88]
+        - generic [ref=e89]: 16 min
+        - heading "Jane Doe" [level=4] [ref=e90]
+        - separator [ref=e91]
+        - paragraph [ref=e92]: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        - button " Like" [ref=e93] [cursor=pointer]:
+          - generic [ref=e94]: 
+          - text: Like
+        - button " Comment" [ref=e95] [cursor=pointer]:
+          - generic [ref=e96]: 
+          - text: Comment
+      - generic [ref=e97]:
+        - img "Avatar" [ref=e98]
+        - generic [ref=e99]: 32 min
+        - heading "Angie Jane" [level=4] [ref=e100]
+        - separator [ref=e101]
+        - paragraph [ref=e102]: Have you seen this? Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        - img "Post photo" [ref=e103]
+        - button " Like" [ref=e104] [cursor=pointer]:
+          - generic [ref=e105]: 
+          - text: Like
+        - button " Comment" [ref=e106] [cursor=pointer]:
+          - generic [ref=e107]: 
+          - text: Comment
+    - generic [ref=e108]:
+      - generic [ref=e110]:
+        - paragraph [ref=e111]: "Upcoming Events:"
+        - img "Forest" [ref=e112]
+        - paragraph [ref=e113]:
+          - strong [ref=e114]: Holiday
+        - paragraph [ref=e115]: Friday 15:00
+        - paragraph [ref=e116]:
+          - button "Info" [ref=e117] [cursor=pointer]
+      - generic [ref=e119]:
+        - paragraph [ref=e120]: Friend Request
+        - img "Avatar" [ref=e121]
+        - text: Jane Doe
+        - generic [ref=e122]:
+          - button "" [ref=e124] [cursor=pointer]
+          - button "" [ref=e127] [cursor=pointer]
+      - paragraph [ref=e130]: ADS
+      - paragraph [ref=e132]:
+        - generic [ref=e133]: 
+  - contentinfo [ref=e134]:
+    - heading "Footer" [level=5] [ref=e135]
+  - contentinfo [ref=e136]:
+    - paragraph [ref=e137]:
+      - text: Powered by
+      - link "w3.css" [ref=e138] [cursor=pointer]:
+        - /url: https://www.w3schools.com/w3css/default.asp
